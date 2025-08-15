@@ -1,7 +1,9 @@
-Major Policies to Increase Millet Consumption
+**Major Policies to Increase Millet Consumption**
+
 This project provides an in-depth analysis of millet consumption trends and related government policies in India. Millets, as sustainable and nutritionally rich alternatives to common grains, are crucial for addressing food and nutrition security challenges. This study examines historical consumption patterns and expenditures to provide data-backed policy recommendations.
 
-Table of Contents
+**Table of Contents**
+
 Introduction
 
 Literary Review
